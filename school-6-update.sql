@@ -1,0 +1,1 @@
+UPDATE students SET email = "caitlin.lehman@kellogg.northwestern.edu" WHERE id = 1
